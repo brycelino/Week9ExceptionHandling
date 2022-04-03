@@ -1,0 +1,14 @@
+C:\Users\bryce\source\repos\Week9ExceptionHandling\bin\Debug\netcoreapp3.1\Week9ExceptionHandling.exe
+C:\Users\bryce\source\repos\Week9ExceptionHandling\bin\Debug\netcoreapp3.1\Week9ExceptionHandling.deps.json
+C:\Users\bryce\source\repos\Week9ExceptionHandling\bin\Debug\netcoreapp3.1\Week9ExceptionHandling.runtimeconfig.json
+C:\Users\bryce\source\repos\Week9ExceptionHandling\bin\Debug\netcoreapp3.1\Week9ExceptionHandling.runtimeconfig.dev.json
+C:\Users\bryce\source\repos\Week9ExceptionHandling\bin\Debug\netcoreapp3.1\Week9ExceptionHandling.dll
+C:\Users\bryce\source\repos\Week9ExceptionHandling\bin\Debug\netcoreapp3.1\Week9ExceptionHandling.pdb
+C:\Users\bryce\source\repos\Week9ExceptionHandling\obj\Debug\netcoreapp3.1\Week9ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\bryce\source\repos\Week9ExceptionHandling\obj\Debug\netcoreapp3.1\Week9ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryce\source\repos\Week9ExceptionHandling\obj\Debug\netcoreapp3.1\Week9ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\bryce\source\repos\Week9ExceptionHandling\obj\Debug\netcoreapp3.1\Week9ExceptionHandling.AssemblyInfo.cs
+C:\Users\bryce\source\repos\Week9ExceptionHandling\obj\Debug\netcoreapp3.1\Week9ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\bryce\source\repos\Week9ExceptionHandling\obj\Debug\netcoreapp3.1\Week9ExceptionHandling.dll
+C:\Users\bryce\source\repos\Week9ExceptionHandling\obj\Debug\netcoreapp3.1\Week9ExceptionHandling.pdb
+C:\Users\bryce\source\repos\Week9ExceptionHandling\obj\Debug\netcoreapp3.1\Week9ExceptionHandling.genruntimeconfig.cache
